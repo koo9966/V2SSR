@@ -8,4 +8,7 @@ https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Week.txt
 
 每日更新：
 
+https://raw.githubusercontent.com/satrom/V2SSR/master/SS/Day.txt
+
+
 https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
