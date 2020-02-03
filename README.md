@@ -20,3 +20,8 @@ https://api.niconewbeee.tk/sub?target=clash&url=https%3A//raw.githubusercontent.
 https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
 
 https://api.niconewbeee.tk/sub?target=clashr&url=https%3A//raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt&config=https%3A//raw.githubusercontent.com/satrom/Clash/master/lette.ini
+
+
+https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Fly.txt
+
+https://api.niconewbeee.tk/sub?target=clashr&url=https%3A//raw.githubusercontent.com/satrom/V2SSR/master/SSR/Fly.txt&config=https%3A//raw.githubusercontent.com/satrom/Clash/master/lette.ini
