@@ -7,11 +7,6 @@
 https://raw.githubusercontent.com/RaymondHarris971/ssrsub/master/9a075bdee5.txt
 
 
-每日更新SSR：
-
-https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
-
-
 定期更新:
 
 https://raw.githubusercontent.com/satrom/V2SSR/master/SS/Sub.txt
